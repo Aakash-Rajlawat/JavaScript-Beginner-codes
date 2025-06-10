@@ -1,0 +1,16 @@
+.btn{
+    font-size: 2em;
+    padding: 15px 20px;
+    border-radius: 8px;
+    background-color: rgb(96, 226, 124);
+}
+body{
+    margin-top: 11em;
+    text-align: center;
+
+
+}
+#number{
+    font-size: 9em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
